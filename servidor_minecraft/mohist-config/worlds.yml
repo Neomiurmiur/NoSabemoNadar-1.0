@@ -1,0 +1,18 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: EASY
+    seed: 871911322920867491
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  DIM1:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  past:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: graveyard
